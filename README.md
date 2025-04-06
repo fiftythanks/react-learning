@@ -1,7 +1,8 @@
-# Learning Subject
-This is a repo that I created first time diving into Subject.
+# Learning React
+This is a repo that I created first time diving into React.
 
-[ ] Do something.\
-[ ] Do something.\
-[ ] Do something.\
-[ ] Do something.
+- [x] Get Started.
+  - [x] [Tic-Tac-Toe](https://github.com/fiftythanks/tic-tac-toe-react).
+- [ ] Do something.
+- [ ] Do something.
+- [ ] Do something.
